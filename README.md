@@ -1,10 +1,15 @@
 Hi there, I am Abduganiyev 👋
+
 I'm a junior developer
+
 NOW
+
 ✨ Crafted last CodeStorm;
 🇵🇹 Planing the "Rent House";
 🍑 What about this?
+
 BIO
+
 🏢 I'm currently working at Najot ta'lim
 ⚙️ My specialty : .net, asp.net, wpf, postgresql
 💻 My programming languages : .cs, .c, .py
