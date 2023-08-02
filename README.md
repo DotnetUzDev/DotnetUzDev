@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Crafted last [HeavyService](https://github.com/redmindsteam/codestorm);
-- 🇵🇹 Planing the "Rent-House";
+- 🇵🇹 Planing the "HeavyService";
 - 🍑 What about this?
 
 ##### BIO
